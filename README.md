@@ -1,3 +1,12 @@
+# Microphone Usage
+https://github.com/user-attachments/assets/e9822921-c836-4f2e-a326-30f4558efdaf
+
+After giving mic permissions you can see the mic usage:
+
+<img width="482" alt="Screenshot 2024-10-03 at 12 56 07 PM" src="https://github.com/user-attachments/assets/32bc935f-8053-4213-8ebf-7d675304d8ef">
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
