@@ -10,8 +10,14 @@
     "test": "jest"
   },
   "dependencies": {
+    "@notifee/react-native": "^9.0.2",
+    "@react-native-community/netinfo": "^11.4.1",
+    "@stream-io/react-native-webrtc": "^118.1.1",
+    "@stream-io/video-react-native-sdk": "^1.1.0",
     "react": "18.3.1",
-    "react-native": "0.75.4"
+    "react-native": "0.75.4",
+    "react-native-incall-manager": "^4.2.0",
+    "react-native-svg": "^15.7.1"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
